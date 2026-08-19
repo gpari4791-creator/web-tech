@@ -1,0 +1,23 @@
+<!doctype>
+<html>
+    <head>
+          <title>my web page</title>
+<body>
+<H1><B><U>NAME OF THE STUDENTS PRESENT IN THE CLASS</U></B></H1>
+<HR>
+<H3>GIRLS NAME</H3>
+<UL>
+<LI>SITA</LI>
+<LI>URMILA</LI>
+<LI>MANDAVI</LI>
+<LI>SHRUTAKIRTI</LI>
+</UL>
+<H3>BOYS NAME</H3>
+<UL>
+<LI>RAM</LI>
+<LI>LAKSHMAN</LI>
+<LI>BHARAT</LI>
+<LI>SHATRUGHNA</LI>
+</UL>
+</BODY>
+</HTML>
